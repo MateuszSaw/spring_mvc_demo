@@ -6,6 +6,13 @@
 <body>
 <h2>It's working! </h2>
 
-<a href="showForm">Hello World Form</a>
+<a href="hello/showForm">Hello World Form</a>
+<br><br>
+<a href="student/showForm">Student form</a>
+<br><br>
+<a href="customer/showForm">Customer form</a>
+
+
+
 </body>
 </html>
